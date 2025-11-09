@@ -28,7 +28,7 @@ The robot is a 6-DOF bipedal platform, with each leg having 3 degrees of freedom
 
 * **Design:** The entire structure was modeled in SolidWorks.
 * **Materials:** To balance weight and strength, the main structural components (footplates, shoulder plates) are made of **6061 Aluminum Alloy**, while the U-shaped connectors are made from 2mm hard aluminum.
-
+![CAD Assembly Drawing](Media/cad_assembly.png)
 ---
 
 ## Hardware Design
