@@ -14,13 +14,6 @@ This robot was designed to complete a complex race course, requiring stable walk
 | ![Robot small step demo](Media/small_step.gif) | ![Robot large step demo](Media/large_step.gif) | ![Robot tumble demo](Media/tumble.gif) |
 
 
-## My Contribution
-As the primary hardware engineer on this project, I was responsible for:
-
-* **Hardware System:** Designing the custom ATmega16 controller PCB, selecting all actuators (servos) , and integrating the power system.
-* **Low-Level Firmware:** Writing the C code for the ATmega16 microcontroller to control all 6 servos, generate PWM signals, and execute the gait algorithms.
-
-
 ## Mechanical Structure
 The robot is a 6-DOF bipedal platform, with each leg having 3 degrees of freedom (hip, knee, and ankle). This configuration allows for complex movements like walking, turning, and tumbling.
 
