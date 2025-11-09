@@ -27,7 +27,7 @@ The robot is a 6-DOF bipedal platform, with each leg having 3 degrees of freedom
 
 ## Hardware Design
 
-The hardware system I designed is centered around the **ATmega16 ** microcontroller and is built on a custom-designed PCB.
+The hardware system I designed is centered around the **ATmega16** microcontroller and is built on a custom-designed PCB.
 
 A key part of the design is the power system. To maximize torque, the six **LDX-218 servos** are powered directly from a **7.4V** (2x 18650 Li-ion) rail. A separate **5V** logic rail for the ATmega16 and other components is created using an **AMS1117-5.0** voltage regulator. This separation ensures the high current draw from the servos does not cause a brownout or reset the microcontroller.
 
