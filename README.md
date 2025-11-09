@@ -1,6 +1,6 @@
 # Biped-Walking-Robot-Project
 
-This repository documents the design of a 6-DOF biped race-walking robot, originally developed for the China Engineering Robot and International Open Competition. This project showcases the complete engineering workflow, from mechanical structure and CAD modeling to custom circuit/hardware design and the software control architecture.
+This repository documents the design of a 6-DOF biped race-walking robot, originally developed for the China Engineering Robot and International Open Competition. This project showcases the complete engineering workflow, from mechanical structure to hardware design and the software control architecture.
 
 Note: This repository is focused on open-sourcing the hardware. 
 
